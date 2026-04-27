@@ -1,0 +1,7 @@
+services:
+  scraper:
+    build: .
+    container_name: html_scraper
+    volumes:
+      - .:/app
+    command: python scraper.py

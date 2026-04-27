@@ -1,0 +1,16 @@
+# fastapi==0.115.0
+# uvicorn[standard]==0.30.6
+
+beautifulsoup4==4.12.3
+lxml==5.3.0
+
+# aiofiles==24.1.0
+# asyncpg==0.29.0
+
+# pandas==2.2.2
+# openpyxl==3.1.5
+
+# python-dotenv==1.0.1
+
+# gspread==6.1.2
+# oauth2client==4.1.3
